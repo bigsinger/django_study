@@ -14,3 +14,5 @@
 1. [最新Django2\.0\.1在线教育零基础到上线教程](https://www.jianshu.com/nb/21010157)
 参考源码：
 https://github.com/mtianyan/Mxonline3
+
+1. [高仿慕课网：py3.5 + Django1.10 + xadmin 搭建的在线课程教育平台](https://github.com/zaxlct/imooc-django)  http://118.25.37.219
